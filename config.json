@@ -1,0 +1,8 @@
+{
+    "server": "spt.social",
+    "home-timeline-length": 200,
+    "max-followings": 80,
+    "max-bookmarks": 80,
+    "max-favourites": 40,
+    "from-notifications": 1
+  }
